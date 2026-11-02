@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "name": "Full test",
+  "target": {
+    "framework": "arduino",
+    "board": "esp32:esp32:esp32s3",
+    "options": {},
+    "sketchPath": "."
+  },
+  "serial": null,
+  "build": {
+    "properties": []
+  },
+  "createdAt": "2026-11-02T07:00:15.461Z",
+  "updatedAt": "2026-11-02T07:00:15.461Z"
+}
